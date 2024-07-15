@@ -1,0 +1,13 @@
+---
+sidebar: false
+description: "A collection of articles on machine learning and data science"
+toc: true
+# listing:
+    # date-format: short
+    # # feed: true
+    # filter-ui: true
+    # type: table
+    # # sort-ui: "date desc"
+    # categories: false
+    # fields: [date, title]
+---

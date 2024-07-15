@@ -1,1 +1,1 @@
-Sitemap: https://mooda.blog/sitemap.xml
+Sitemap: https://mooda.dev/sitemap.xml

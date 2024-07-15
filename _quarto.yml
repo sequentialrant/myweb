@@ -3,23 +3,29 @@ project:
   output-dir: docs
 
 website:
-  title: "Mooda"
+  title: Srinidhi's Blog
+  site-url: https://mooda.dev
+  description: "A collection of articles on machine learning and data science."
   repo-url: https://github.com/sequentialrant/myweb
-  open-graph: true
-  site-url: https://mooda.blog
+  repo-branch: main
   navbar:
+    title: false
     search: true
-    right:
+    pinned: false
+    collapse: false
+    left:
       - href: index.qmd
         text: Blog
       - text: "Resources"
         file: static/resources/resources.qmd
-      - text: About
-        file: about.qmd
+      # - text: About
+      #   file: about.qmd
       - icon: github
         href: https://github.com/sequentialrant
       - icon: twitter
         href: https://twitter.com/sequentialrant
+  favicon: favicon.ico
+  open-graph: true
 
 format:
   html:
