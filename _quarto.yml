@@ -4,6 +4,9 @@ project:
 
 website:
   title: "Mooda"
+  repo-url: https://github.com/sequentialrant/myweb
+  open-graph: true
+  site-url: https://mooda.blog
   navbar:
     search: true
     right:
