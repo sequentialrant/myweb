@@ -3,12 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "myweb"
+  title: "Mooda"
   navbar:
-    left:
+    search: true
+    right:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Blog
+      - text: "Resources"
+        file: static/resources/resources.qmd
+      - text: About
+        file: about.qmd
+      - icon: github
+        href: https://github.com/sequentialrant
+      - icon: twitter
+        href: https://twitter.com/sequentialrant
 
 format:
   html:

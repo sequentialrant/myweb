@@ -4,5 +4,8 @@
   },
   "about.qmd": {
     "about.html": "9e3d62ab"
+  },
+  "static/resources/resources.qmd": {
+    "resources.html": "072e48b4"
   }
 }
